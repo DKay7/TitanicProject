@@ -1,5 +1,7 @@
 # Проект "Титаник"
 
+[Ссылка на рабочую версию](https://titanic-dkay-project.herokuapp.com/)
+
 ![Проект "Титаник"](https://i.imgur.com/hSlVt6v.png)
 от [@DKay](https://github.com/DKay7/)
 
@@ -24,6 +26,8 @@
 -----------------
 
 # Titanic project
+
+[Link to the working version](https://titanic-dkay-project.herokuapp.com/)
 
 ![Titanic project](https://i.imgur.com/hSlVt6v.png)
 by [@DKay](https://github.com/DKay7/)
